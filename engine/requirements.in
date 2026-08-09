@@ -45,7 +45,7 @@ phonenumbers==8.10.0
 prometheus_client==0.16.0
 psutil==5.9.4
 psycopg2==2.9.11
-pymdown-extensions==10.0
+pymdown-extensions==11.0.1
 PyMySQL==1.1.1
 python-telegram-bot==22.5
 recurring-ical-events==2.1.0
